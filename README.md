@@ -1,4 +1,6 @@
-This project presents a demo on the implementation of an AES-encrypted HTTP GET request carried between an Arduino (ESP32) device and C# ASP.NET.
+# AES Encrypted Data Transmission Between Arduino (ESP32) and C# (ASP.NET)
+
+This project presents a demo on the implementation of an AES-encrypted HTTP request carried between an Arduino (ESP32) device and C# ASP.NET.
 
 This Arduino project uses the following library:
 - "AESLib" provided by Matej Sychra

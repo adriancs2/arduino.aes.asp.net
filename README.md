@@ -11,3 +11,7 @@ View Documentation (Step by Step Guide) at:
 [https://adriancs.com/c-sharp/1081/aes-encrypted-http-request-between-arduino-esp32-and-c-asp-net/](https://adriancs.com/c-sharp/1081/aes-encrypted-http-request-between-arduino-esp32-and-c-asp-net/)
 
 [https://www.codeproject.com/Articles/5365769/AES-Encrypted-Transmission-Between-Arduino-ESP32-a](https://www.codeproject.com/Articles/5365769/AES-Encrypted-Transmission-Between-Arduino-ESP32-a)
+
+Here is another simplified article highlights the basic usage of AES locally within a Arduino device:
+
+[https://adriancs.com/arduino/1096/arduino-aes-encryption-128-bits-cbc/](https://adriancs.com/arduino/1096/arduino-aes-encryption-128-bits-cbc/)

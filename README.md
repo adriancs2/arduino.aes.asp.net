@@ -3,8 +3,8 @@
 This project presents a demo on the implementation of an AES-encrypted HTTP request carried between an Arduino (ESP32) device and C# ASP.NET.
 
 This Arduino project uses the following library:
-- "AESLib" provided by Matej Sychra [https://github.com/suculent/thinx-aes-lib](https://github.com/suculent/thinx-aes-lib)
-- "base64_encode" provided by dojyorin [https://github.com/dojyorin/arduino_base64](https://github.com/dojyorin/arduino_base64)
+- "AESLib" provided by Matej Sychra<br /> [https://github.com/suculent/thinx-aes-lib](https://github.com/suculent/thinx-aes-lib)
+- "base64_encode" provided by dojyorin<br /> [https://github.com/dojyorin/arduino_base64](https://github.com/dojyorin/arduino_base64)
 
 View Documentation (Step by Step Guide) at:
 
